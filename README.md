@@ -3,7 +3,7 @@ Nesta aula abordamos assuntos realcioandos variaveis e condicionais
 
 # 🔌Como fazer funcionar na sua máquina:
 
-- Instale Python na sua máquina;
+- Instale Python na sua máquina
 
 # 📋Pré-requisitos do sistema:
 
